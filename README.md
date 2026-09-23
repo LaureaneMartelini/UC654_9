@@ -21,6 +21,9 @@ Componentes THT (Through-Hole Technology), com inserção dos terminais
 através dos furos da placa.
 
 
+## Demonstração em video 
+https://youtube.com/shorts/WX3DliFUaAo?feature=share
+
 ## Soldadura SMD
 
 Componentes SMD (Surface-Mount Device), soldados diretamente na superfície
